@@ -12,6 +12,7 @@ Este proyecto proporciona una clase `EtherscanAPI` que actúa como una envoltura
 - Consultar bloques minados por una dirección.
 - Obtener historial de balance de una dirección.
 - Consultar retiros en la Beacon Chain de Ethereum.
+- +...
 
 ## Instalación
 ```sh
