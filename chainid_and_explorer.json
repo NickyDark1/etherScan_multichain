@@ -1,0 +1,324 @@
+{
+      "chains": [
+        {
+          "name": "Ethereum Mainnet",
+          "chain_id": 1,
+          "explorer": "https://etherscan.io"
+        },
+        {
+          "name": "Sepolia Testnet",
+          "chain_id": 11155111,
+          "explorer": "https://sepolia.etherscan.io"
+        },
+        {
+          "name": "Holesky Testnet",
+          "chain_id": 17000,
+          "explorer": "https://holesky.etherscan.io"
+        },
+        {
+          "name": "Abstract Mainnet",
+          "chain_id": 2741,
+          "explorer": "https://explorer.abstract.com"
+        },
+        {
+          "name": "Abstract Sepolia Testnet",
+          "chain_id": 11124,
+          "explorer": "https://sepolia.explorer.abstract.com"
+        },
+        {
+          "name": "ApeChain Curtis Testnet",
+          "chain_id": 33111,
+          "explorer": "https://curtis.explorer.apechain.xyz"
+        },
+        {
+          "name": "ApeChain Mainnet",
+          "chain_id": 33139,
+          "explorer": "https://explorer.apechain.xyz"
+        },
+        {
+          "name": "Arbitrum Nova Mainnet",
+          "chain_id": 42170,
+          "explorer": "https://nova.arbiscan.io"
+        },
+        {
+          "name": "Arbitrum One Mainnet",
+          "chain_id": 42161,
+          "explorer": "https://arbiscan.io"
+        },
+        {
+          "name": "Arbitrum Sepolia Testnet",
+          "chain_id": 421614,
+          "explorer": "https://sepolia.arbiscan.io"
+        },
+        {
+          "name": "Avalanche C-Chain",
+          "chain_id": 43114,
+          "explorer": "https://snowtrace.io"
+        },
+        {
+          "name": "Avalanche Fuji Testnet",
+          "chain_id": 43113,
+          "explorer": "https://testnet.snowtrace.io"
+        },
+        {
+          "name": "Base Mainnet",
+          "chain_id": 8453,
+          "explorer": "https://basescan.org"
+        },
+        {
+          "name": "Base Sepolia Testnet",
+          "chain_id": 84532,
+          "explorer": "https://sepolia.basescan.org"
+        },
+        {
+          "name": "Berachain Mainnet",
+          "chain_id": 80094,
+          "explorer": "https://explorer.berachain.com"
+        },
+        {
+          "name": "BitTorrent Chain Mainnet",
+          "chain_id": 199,
+          "explorer": "https://bttcscan.com"
+        },
+        {
+          "name": "BitTorrent Chain Testnet",
+          "chain_id": 1028,
+          "explorer": "https://testnet.bttcscan.com"
+        },
+        {
+          "name": "Blast Mainnet",
+          "chain_id": 81457,
+          "explorer": "https://explorer.blastapi.io"
+        },
+        {
+          "name": "Blast Sepolia Testnet",
+          "chain_id": 168587773,
+          "explorer": "https://sepolia.explorer.blastapi.io"
+        },
+        {
+          "name": "BNB Smart Chain Mainnet",
+          "chain_id": 56,
+          "explorer": "https://bscscan.com"
+        },
+        {
+          "name": "BNB Smart Chain Testnet",
+          "chain_id": 97,
+          "explorer": "https://testnet.bscscan.com"
+        },
+        {
+          "name": "Celo Alfajores Testnet",
+          "chain_id": 44787,
+          "explorer": "https://alfajores-blockscout.celo-testnet.org"
+        },
+        {
+          "name": "Celo Mainnet",
+          "chain_id": 42220,
+          "explorer": "https://explorer.celo.org"
+        },
+        {
+          "name": "Cronos Mainnet",
+          "chain_id": 25,
+          "explorer": "https://cronoscan.com"
+        },
+        {
+          "name": "Fantom Opera Mainnet",
+          "chain_id": 250,
+          "explorer": "https://ftmscan.com"
+        },
+        {
+          "name": "Fantom Testnet",
+          "chain_id": 4002,
+          "explorer": "https://testnet.ftmscan.com"
+        },
+        {
+          "name": "Fraxtal Mainnet",
+          "chain_id": 252,
+          "explorer": "https://explorer.fraxtal.io"
+        },
+        {
+          "name": "Fraxtal Testnet",
+          "chain_id": 2522,
+          "explorer": "https://testnet.explorer.fraxtal.io"
+        },
+        {
+          "name": "Gnosis",
+          "chain_id": 100,
+          "explorer": "https://gnosisscan.io"
+        },
+        {
+          "name": "Kroma Mainnet",
+          "chain_id": 255,
+          "explorer": "https://explorer.kroma.network"
+        },
+        {
+          "name": "Kroma Sepolia Testnet",
+          "chain_id": 2358,
+          "explorer": "https://sepolia.explorer.kroma.network"
+        },
+        {
+          "name": "Linea Mainnet",
+          "chain_id": 59144,
+          "explorer": "https://lineascan.build"
+        },
+        {
+          "name": "Linea Sepolia Testnet",
+          "chain_id": 59141,
+          "explorer": "https://sepolia.lineascan.build"
+        },
+        {
+          "name": "Mantle Mainnet",
+          "chain_id": 5000,
+          "explorer": "https://explorer.mantle.xyz"
+        },
+        {
+          "name": "Mantle Sepolia Testnet",
+          "chain_id": 5003,
+          "explorer": "https://sepolia.explorer.mantle.xyz"
+        },
+        {
+          "name": "Moonbase Alpha Testnet",
+          "chain_id": 1287,
+          "explorer": "https://moonbase.moonscan.io"
+        },
+        {
+          "name": "Moonbeam Mainnet",
+          "chain_id": 1284,
+          "explorer": "https://moonscan.io"
+        },
+        {
+          "name": "Moonriver Mainnet",
+          "chain_id": 1285,
+          "explorer": "https://moonriver.moonscan.io"
+        },
+        {
+          "name": "OP Mainnet",
+          "chain_id": 10,
+          "explorer": "https://optimistic.etherscan.io"
+        },
+            {
+          "name": "OP Sepolia Testnet",
+          "chain_id": 11155420,
+          "explorer": "https://sepolia-optimism.etherscan.io"
+        },
+        {
+          "name": "Polygon Amoy Testnet",
+          "chain_id": 80002,
+          "explorer": "https://amoy.polygonscan.com"
+        },
+        {
+          "name": "Polygon Mainnet",
+          "chain_id": 137,
+          "explorer": "https://polygonscan.com"
+        },
+        {
+          "name": "Polygon zkEVM Cardona Testnet",
+          "chain_id": 2442,
+          "explorer": "https://cardona-zkevm.polygonscan.com"
+        },
+        {
+          "name": "Polygon zkEVM Mainnet",
+          "chain_id": 1101,
+          "explorer": "https://zkevm.polygonscan.com"
+        },
+        {
+          "name": "Scroll Mainnet",
+          "chain_id": 534352,
+          "explorer": "https://scrollscan.com"
+        },
+        {
+          "name": "Scroll Sepolia Testnet",
+          "chain_id": 534351,
+          "explorer": "https://sepolia.scrollscan.com"
+        },
+        {
+          "name": "Sonic Blaze Testnet",
+          "chain_id": 57054,
+          "explorer": "https://blaze.sonicscan.io"
+        },
+        {
+          "name": "Sonic Mainnet",
+          "chain_id": 146,
+          "explorer": "https://sonicscan.io"
+        },
+        {
+          "name": "Sophon Mainnet",
+          "chain_id": 50104,
+          "explorer": "https://explorer.sophon.io"
+        },
+        {
+          "name": "Sophon Sepolia Testnet",
+          "chain_id": 531050104,
+          "explorer": "https://sepolia-explorer.sophon.io"
+        },
+        {
+          "name": "Taiko Hekla L2 Testnet",
+          "chain_id": 167009,
+          "explorer": "https://hekla-explorer.taiko.xyz"
+        },
+        {
+          "name": "Taiko Mainnet",
+          "chain_id": 167000,
+          "explorer": "https://explorer.taiko.xyz"
+        },
+        {
+          "name": "Unichain Mainnet",
+          "chain_id": 130,
+          "explorer": "https://explorer.unichain.io"
+        },
+        {
+          "name": "Unichain Sepolia Testnet",
+          "chain_id": 1301,
+          "explorer": "https://sepolia-explorer.unichain.io"
+        },
+        {
+          "name": "WEMIX3.0 Mainnet",
+          "chain_id": 1111,
+          "explorer": "https://explorer.wemix.com"
+        },
+        {
+          "name": "WEMIX3.0 Testnet",
+          "chain_id": 1112,
+          "explorer": "https://testnet-explorer.wemix.com"
+        },
+        {
+          "name": "World Mainnet",
+          "chain_id": 480,
+          "explorer": "https://explorer.world.io"
+        },
+        {
+          "name": "World Sepolia Testnet",
+          "chain_id": 4801,
+          "explorer": "https://sepolia-explorer.world.io"
+        },
+        {
+          "name": "Xai Mainnet",
+          "chain_id": 660279,
+          "explorer": "https://explorer.xai.io"
+        },
+        {
+          "name": "Xai Sepolia Testnet",
+          "chain_id": 37714555429,
+          "explorer": "https://sepolia-explorer.xai.io"
+        },
+        {
+          "name": "XDC Apothem Testnet",
+          "chain_id": 51,
+          "explorer": "https://explorer.apothem.network"
+        },
+        {
+          "name": "XDC Mainnet",
+          "chain_id": 50,
+          "explorer": "https://xdcscan.io"
+        },
+        {
+          "name": "zkSync Mainnet",
+          "chain_id": 324,
+          "explorer": "https://explorer.zksync.io"
+        },
+        {
+          "name": "zkSync Sepolia Testnet",
+          "chain_id": 300,
+          "explorer": "https://sepolia-explorer.zksync.io"
+        }
+      ]
+}
